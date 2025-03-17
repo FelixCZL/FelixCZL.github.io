@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My Investment Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-03-17T08:11:55.706Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Felix Chan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2025-03-07-错过最佳止损位，损失惨重</title>
+    <link href="http://example.com/2025/03/07/2025-03-07/"/>
+    <id>http://example.com/2025/03/07/2025-03-07/</id>
+    <published>2025-03-07T08:03:20.000Z</published>
+    <updated>2025-03-17T08:11:55.706Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
