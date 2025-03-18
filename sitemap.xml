@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/analysis/index.html</loc>
+    <loc>http://www.felixchan.top/analysis/index.html</loc>
     
     <lastmod>2025-03-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2025/03/07/2025-03-07/</loc>
+    <loc>http://www.felixchan.top/2025/03/07/2025-03-07/</loc>
     
     <lastmod>2025-03-17</lastmod>
     
@@ -21,8 +21,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2025-03-17</lastmod>
+    <loc>http://www.felixchan.top/</loc>
+    <lastmod>2025-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
